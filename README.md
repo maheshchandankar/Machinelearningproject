@@ -11,3 +11,8 @@ conda activate venv/
 OR
 ...
 conda activate venv
+...
+HEROKU_EMAIL=maheshchandankarg@gmail.com
+HEROKU_API_KEY=6f44236a-ee5d-4ed5-9df6-bb6e0d565f09
+HEROKU_APP_NAME=ml-regression-new
+
